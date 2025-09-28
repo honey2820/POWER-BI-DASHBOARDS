@@ -1,2 +1,2 @@
 # POWER-BI-DASHBOARDS
-- **Finance Dashboards** – Track revenue, expenses, and performance metrics. - **Sales Dashboards** – Monitor sales trends, customer behavior, and targets. - **Operational Dashboards** – Visualize KPIs for operational efficiency.
+This repository contains various **Power BI dashboards** for data visualization and analysis. These dashboards are designed to provide actionable insights for business processes, finance, and other domains.
